@@ -54,4 +54,22 @@ flask --app app --debug run
 
 ```
 
+---
+
+# Mental Health Chatbot
+
+## Overview
+
+This project is a simple AI-powered chatbot designed to support mental health and wellness. The chatbot interacts with users through text-based conversations, offering basic emotional support, answering mental health-related queries, and guiding users toward helpful resources. It uses natural language processing techniques to understand user input and respond empathetically, aiming to create a safe and supportive virtual environment.
+
+## Features
+
+* Responds to user inputs with supportive and relevant messages.
+* Recognizes keywords related to stress, anxiety, depression, etc.
+* Provides basic suggestions and coping strategies.
+* Aims to offer comfort and direct users to professional help if needed.
+
+> **Note:** This chatbot is for educational and awareness purposes only and not a substitute for professional mental health advice.
+
+---
 
